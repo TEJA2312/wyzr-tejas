@@ -1,4 +1,4 @@
-wyzr.in Submission by Tejas Shirnalkar
+## wyzr.in Submission by Tejas Shirnalkar
 
 # Overview
 App uses the standard  Full-stack Architecture where code is divided into two bases client and API (backend). These two code bases run on two proxy servers that communicate with each other.
