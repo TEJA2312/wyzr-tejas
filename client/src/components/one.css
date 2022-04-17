@@ -1,0 +1,116 @@
+.card-bks{
+    width: 50%;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 60px;
+  }
+  .card-bks-0{
+    width: 30%;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 60px;
+    border: none;
+  }
+
+  .parag{
+    text-align: left;
+  }
+  .card-bks-1{
+    width: 70%;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 60px;
+  }
+  .li1{
+      font-size: 20px;
+      font-weight: bold;
+      text-decoration: none;
+      color: rgb(1, 7, 12);
+  }
+  .img-here{
+      width: 100%;
+      height: 100%;
+  }
+
+.pok{
+    margin-top:2px;
+    margin-bottom:2px;
+    font-size: 12px;
+    font-weight: 600;
+    color:rgb(92, 92, 92);
+}
+.pok1{
+  margin-top:2px;
+  margin-bottom:2px;
+  font-size: 18px;
+  font-weight: 600;
+  color:rgb(0, 55, 99);
+}
+.pok2{
+  margin-top:2px;
+  margin-bottom:2px;
+  font-size: 12px;
+  font-weight: 600;
+  color:rgb(0, 55, 99);
+}
+
+  .par-bks{
+      font-size: 12px;
+      color: rgb(7, 55, 94);
+      margin-top:10px;
+  }
+  .par-bks-3{
+      margin-top: 30px;
+    font-size: 12px;
+    color: rgb(7, 55, 94);
+    margin-top:10px;
+}
+.marg{
+    margin-top: 30px;
+}
+  .goto{
+    width: 100%;
+    font-size: 12px;
+    background-color:rgb(255, 0, 0);
+    border: none;
+    outline: none;
+    height: 100%;
+  }
+  .goto2{
+    width: 100%;
+    font-size: 12px;
+    background-color:rgb(255, 0, 0);
+    border: none;
+    outline: none;
+    height: 100%;
+    margin-bottom: 20px;
+  }
+  .goto3{
+    width: 100%;
+    font-size: 12px;
+    background-color:rgb(0, 0, 0);
+    border: none;
+    outline: none;
+    height: 100%;
+    margin-top: 20px;
+  }
+  .SearchInput{
+      width: 100%;
+      background-color:rgb(255, 255, 255);
+      color: black;
+      border: 1px solid rgb(138, 138, 138);
+      font-size: 12px;
+      padding: 10px;
+  }
+  
+  .prof{
+    width: 30px;
+    height: 30px;
+    border-radius: 15px;
+  }
+
+
+
